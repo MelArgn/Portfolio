@@ -287,4 +287,13 @@ nav ul {
     width: 100%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 45%;
+  }
+  svg {
+    height: 60%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
