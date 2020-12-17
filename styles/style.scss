@@ -73,4 +73,12 @@ $gray-text: #2c2c2c;
       margin: 2rem;
     }
   }
+  .travelly,
+  .elena {
+    flex: 1 1 50rem;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
