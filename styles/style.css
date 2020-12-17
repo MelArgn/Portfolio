@@ -280,5 +280,11 @@ nav ul {
   .splash {
     display: none;
   }
+  svg {
+    width: 80%;
+  }
+  nav {
+    width: 100%;
+  }
 }
 /*# sourceMappingURL=style.css.map */
