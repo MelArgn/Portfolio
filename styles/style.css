@@ -319,5 +319,9 @@ nav ul {
             flex: 1 1 60rem;
     margin: 2rem 0rem;
   }
+  .intro-text {
+    margin-top: 5rem;
+    text-align: center;
+  }
 }
 /*# sourceMappingURL=style.css.map */
